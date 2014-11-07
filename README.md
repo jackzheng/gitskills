@@ -4,4 +4,4 @@ gitskills
 ##Creating a new brancfdsdsssdafsdf  quick.
 
 
-####creating a new branch is great idea and simple.
+这是issue 001 bug 的修改！
